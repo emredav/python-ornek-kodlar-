@@ -22,10 +22,3 @@ elif 50 <= ortalama <= 54:
     print("D")
 else:
     print("F(kaldınız yaz okulunda bol şans)")
-"""
-kaç ders diye sorcaz
-5 diyelim
-sonra girdileri toplam değişkeninde for döngüsünde toplayacağız 
-ondan sonra harf notunu bulcaz
-
-"""
