@@ -1,6 +1,8 @@
+# id doğru ise şifre soran giriş ekranı
 id=input("id gir:")
 
 """
+# versiyon 2: id ve şifre girildikten sonra kontrol eden kısım
 if id=="aliye" and password=="123":
     print("giriş başarılı")
 elif id=="aliye":
